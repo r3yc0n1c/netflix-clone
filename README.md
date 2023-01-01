@@ -2,7 +2,7 @@
 Clone of https://www.netflix.com/
 
 ## Demo
-Live - https://netflix-clone-eu0gtckyx-r3y.vercel.app/
+Live - https://netflix-clone-r3y.vercel.app/
 
 Demo -
 
