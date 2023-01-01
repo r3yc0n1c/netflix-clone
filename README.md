@@ -1,31 +1,48 @@
-# Create React App
+# Netflix Clone
+Clone of https://www.netflix.com/
 
-This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
+## Demo
+Live - https://netflix-clone-eu0gtckyx-r3y.vercel.app/
 
-## Deploy Your Own
+Demo -
 
-Deploy your own Create React App project with Vercel.
+![app](./public/app.gif)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/create-react-app&template=create-react-app)
+## Built With
+- React
+- Node
+- [movie-trailer](https://www.npmjs.com/package/movie-trailer)
 
-_Live Example: https://create-react-template.vercel.app/_
+## Features
+- Genre based movie
+- Responsive UI
+- On click show Trailer
 
-## Available Scripts
+## Installation
+- Clone the repo and goto the dir
+```sh
+$ git clone https://github.com/r3yc0n1c/netflix-clone.git
+$ cd netflix-clone
+$ npm i .
+$ npm start
+```
 
-In the project directory, you can run:
+## Contributing Guidelines
+- Fork the Project
+- Clone it
+- Create your own branch ( git checkout -b feat/myFeature )
+- Add your Changes ( git add . )
+- Commit your Changes ( git commit -m 'added some features' )
+- Push to the Branch ( git push origin feat/myFeature )
+- Open a Pull Request describing the changes
 
-### `npm start`
 
-Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Contacts
+Twitter - https://twitter.com/r3yc0n1c
 
-The page will reload when you make changes. You may also see any lint errors in the console.
+LinkedIn - https://www.linkedin.com/in/raja-majumdar/
 
-### `npm test`
+## License
+This app is created for educational purposes only.
 
-Launches the test runner in the interactive watch mode. See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.
-
-It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes.
+Licensed under the MIT License, see [LICENSE](./LICENSE) for more information.
